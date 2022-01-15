@@ -32,7 +32,7 @@ const theme = {
     xxlarge: "32px",
   },
   fontFamily: {
-    regular: "Helvetica, Arial, sans-serif",
+    regular: "Roboto, Arial, sans-serif",
   },
 };
 
